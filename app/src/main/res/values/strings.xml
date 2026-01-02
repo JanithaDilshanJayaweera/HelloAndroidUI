@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">HelloAndroidUI</string>
+    <string name="welcome_title">Welcome!</string>
+    <string name="welcome_subtitle">Enter your name to continue</string>
+    <string name="hint_your_name">Your Name</string>
+    <string name="btn_get_started">Get Started</string>
+    <string name="error_enter_name">Please enter your name</string>
+    <string name="toast_hello">Hello, %1$s!</string>
+    <string name="dashboard_title">Dashboard</string>
+    <string name="dashboard_welcome">Success! Welcome to the dashboard, %1$s.</string>
+    <string name="content_desc_logo">App Logo</string>
+
 </resources>
